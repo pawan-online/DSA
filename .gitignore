@@ -1,0 +1,10 @@
+**/*.exe
+**/*.o
+**/*.out
+**/build
+**/output
+*/output
+*/build
+*.exe
+*.o
+*.out
